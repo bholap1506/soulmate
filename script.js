@@ -3,6 +3,10 @@ const profiles = [
   { name: "Anjali", age: 27, city: "Mumbai", job: "Marketing" },
   { name: "Neha", age: 24, city: "Bangalore", job: "Software Engineer" },
   { name: "Kavya", age: 26, city: "Pune", job: "HR" }
+  { name: "Shaumya", age: 25, city: "Delhi", job: "Full Stack Engineer" },
+  { name: "Ruch", age: 23, city: "Chennai", job: "Business Analyst" },
+  { name: "Nidhi", age: 21, city: "Bangalore", job: "SDET" },
+  { name: "Aaradhna", age: 27, city: "Delhi", job: "HR Manager" }
 ];
 
 let index = 0;
